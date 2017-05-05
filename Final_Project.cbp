@@ -56,7 +56,7 @@
 		<Unit filename="include/Parallax_1.h" />
 		<Unit filename="include/Player.h" />
 		<Unit filename="include/Soil.h" />
-		<Unit filename="include/Sound.h" />
+		<Unit filename="include/Sounds.h" />
 		<Unit filename="include/TextureLoader.h" />
 		<Unit filename="include/ThrowWeapon.h" />
 		<Unit filename="include/Timer.h" />
@@ -72,7 +72,7 @@
 		<Unit filename="src/Parallax.cpp" />
 		<Unit filename="src/Parallax_1.cpp" />
 		<Unit filename="src/Player.cpp" />
-		<Unit filename="src/Sound.cpp" />
+		<Unit filename="src/Sounds.cpp" />
 		<Unit filename="src/TextureLoader.cpp" />
 		<Unit filename="src/ThrowWeapon.cpp" />
 		<Unit filename="src/Timer.cpp" />
