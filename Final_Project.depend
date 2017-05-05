@@ -1,0 +1,199 @@
+# depslib dependency file v1.0
+1493840027 source:c:\users\a\desktop\ms\csci291t\game_engine\final_project\main.cpp
+	<windows.h>
+	<GLScene.h>
+	<stdlib.h>
+	<iostream>
+	<Inputs.h>
+	<windows.h>
+
+1489444744 c:\users\a\desktop\ms\csci291t\game_engine\final_project\include\glscene.h
+	<windows.h>
+	<string.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<iostream>
+
+1485837743 c:\users\a\desktop\ms\csci291t\game_engine\final_project\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1493860135 c:\users\a\desktop\ms\csci291t\game_engine\final_project\include\inputs.h
+	<windows.h>
+	<iostream>
+	<Model.h>
+	<Parallax.h>
+	<Player.h>
+
+1488960666 c:\users\a\desktop\ms\csci291t\game_engine\final_project\include\model.h
+	<windows.h>
+	<string.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<GL/glut.h>
+	<iostream>
+
+1493831470 c:\users\a\desktop\ms\csci291t\game_engine\final_project\include\parallax.h
+	<gl/gl.h>
+	<windows.h>
+	<string.h>
+	<iostream>
+
+1493779722 c:\users\a\desktop\ms\csci291t\game_engine\final_project\include\player.h
+	<TextureLoader.h>
+	<Timer.h>
+
+1490843715 c:\users\a\desktop\ms\csci291t\game_engine\final_project\include\textureloader.h
+	<Soil.h>
+	<gl/gl.h>
+
+1488859843 c:\users\a\desktop\ms\csci291t\game_engine\final_project\include\soil.h
+
+1489434000 c:\users\a\desktop\ms\csci291t\game_engine\final_project\include\timer.h
+	<time.h>
+
+1478261846 source:c:\users\a\desktop\ms\csci291t\game_engine\final_project\src\gllight.cpp
+	"GLLight.h"
+
+1478386858 c:\users\a\desktop\ms\csci291t\game_engine\final_project\include\gllight.h
+	<GLScene.h>
+
+1493866163 source:c:\users\a\desktop\ms\csci291t\game_engine\final_project\src\glscene.cpp
+	<loadShaders.h>
+	<GLScene.h>
+	<GLLight.h>
+	<Inputs.h>
+	<Model.h>
+	<Parallax.h>
+	<Sprite.h>
+	<Player.h>
+	<particle.h>
+	<Coin.h>
+	<stdlib.h>
+	<Weapon.h>
+	<ThrowWeapon.h>
+	<string>
+
+1492660587 c:\users\a\desktop\ms\csci291t\game_engine\final_project\include\loadshaders.h
+	<GL/glew.h>
+	<string.h>
+	<iostream>
+	<fstream>
+
+1469386778 c:\users\a\desktop\ms\csci291t\game_engine\final_project\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1489630982 c:\users\a\desktop\ms\csci291t\game_engine\final_project\include\sprite.h
+
+1493778291 c:\users\a\desktop\ms\csci291t\game_engine\final_project\include\particle.h
+	<math.h>
+	<GL/gl.h>
+	<stdlib.h>
+
+1493860219 source:c:\users\a\desktop\ms\csci291t\game_engine\final_project\src\inputs.cpp
+	<Inputs.h>
+
+1492659968 source:c:\users\a\desktop\ms\csci291t\game_engine\final_project\src\loadshaders.cpp
+	"loadShaders.h"
+
+1492658552 source:c:\users\a\desktop\ms\csci291t\game_engine\final_project\src\model.cpp
+	<Model.h>
+	<TextureLoader.h>
+
+1493831504 source:c:\users\a\desktop\ms\csci291t\game_engine\final_project\src\parallax.cpp
+	<Parallax.h>
+	<TextureLoader.h>
+
+1493778252 source:c:\users\a\desktop\ms\csci291t\game_engine\final_project\src\particle.cpp
+	"particle.h"
+
+1493867918 source:c:\users\a\desktop\ms\csci291t\game_engine\final_project\src\player.cpp
+	"Player.h"
+
+1493714443 source:c:\users\a\desktop\ms\csci291t\game_engine\final_project\src\sound.cpp
+	"Sound.h"
+
+1493714443 c:\users\a\desktop\ms\csci291t\game_engine\final_project\include\sound.h
+
+1490051132 source:c:\users\a\desktop\ms\csci291t\game_engine\final_project\src\sprite.cpp
+	<Sprite.h>
+	<TextureLoader.h>
+	<windows.h>
+	<gl/gl.h>
+	<string>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iostream>
+	<string>
+	<Timer.h>
+
+1489026092 source:c:\users\a\desktop\ms\csci291t\game_engine\final_project\src\textureloader.cpp
+	"TextureLoader.h"
+
+1489464822 source:c:\users\a\desktop\ms\csci291t\game_engine\final_project\src\timer.cpp
+	"Timer.h"
+
+1493868785 source:c:\users\a\desktop\ms\csci291t\game_engine\final_project\src\coin.cpp
+	"Coin.h"
+
+1493863372 c:\users\a\desktop\ms\csci291t\game_engine\final_project\include\coin.h
+	<windows.h>
+	<string.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<GL/glut.h>
+	<TextureLoader.h>
+	<iostream>
+
+1493804369 c:\users\a\desktop\ms\csci291t\game_engine\final_project\include\parallax_1.h
+
+1493804525 source:c:\users\a\desktop\ms\csci291t\game_engine\final_project\src\parallax_1.cpp
+	"Parallax_1.h"
+	<TextureLoader.h>
+
+1493841164 c:\users\a\desktop\ms\csci291t\game_engine\final_project\include\weapon.h
+	<windows.h>
+	<string.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<GL/glut.h>
+	<TextureLoader.h>
+	<Timer.h>
+	<iostream>
+
+1493850633 source:c:\users\a\desktop\ms\csci291t\game_engine\final_project\src\weapon.cpp
+	"Weapon.h"
+	<ThrowWeapon.h>
+
+1493850647 source:c:\users\a\desktop\ms\csci291t\game_engine\final_project\src\throwweapon.cpp
+	"ThrowWeapon.h"
+	<windows.h>
+	<string.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<TextureLoader.h>
+	<iostream>
+	<math.h>
+	<iostream>
+	<Timer.h>
+
+1493850061 c:\users\a\desktop\ms\csci291t\game_engine\final_project\include\throwweapon.h
+
